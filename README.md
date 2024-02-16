@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anıl Ordu</h1>
-<h3 align="center">A passionate Android developer - Electronics and Communication Engineer from Turkiye</h3>
+<h3 align="center">A passionate Electronics and Communication Engineer from Turkiye</h3>
 
 - 📫 How to reach me **anilordu4@gmail.com**
 
